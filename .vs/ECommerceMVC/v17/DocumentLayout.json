@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\data\\ecommercetutcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\ecommercetutcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\helpers\\settingkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\helpers\\settingkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\helpers\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\helpers\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\it-liem\\source\\repos\\ecommercemvc\\ecommercemvc\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532A434-E46C-4129-BB94-8407101D9CEA}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ECommerceMVC\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ECommerceMVC\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAANkBAAAAAAAAAAAAAO8BAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T01:22:15.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:29:50.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T08:41:21.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T07:50:24.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:31:48.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataEncryptionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Helpers\\DataEncryptionExtensions.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeToolTip": "ECommerceMVC\\Helpers\\DataEncryptionExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:57:34.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Helpers\\Util.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Helpers\\Util.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Helpers\\Util.cs",
+              "RelativeToolTip": "ECommerceMVC\\Helpers\\Util.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:49:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Khachhang.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Data\\Khachhang.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Data\\Khachhang.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Data\\Khachhang.cs",
+              "RelativeToolTip": "ECommerceMVC\\Data\\Khachhang.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:48:24.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ECommerceMVC\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:39:53.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chackout.html",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\wwwroot\\chackout.html",
+              "RelativeDocumentMoniker": "ECommerceMVC\\wwwroot\\chackout.html",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\wwwroot\\chackout.html",
+              "RelativeToolTip": "ECommerceMVC\\wwwroot\\chackout.html",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAEEBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-11T06:40:18.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Program.cs",
+              "RelativeToolTip": "ECommerceMVC\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:03:40.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:54:18.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:54:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T06:49:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1YAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:47:42.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ECommerceTutContext.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Data\\ECommerceTutContext.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Data\\ECommerceTutContext.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Data\\ECommerceTutContext.cs",
+              "RelativeToolTip": "ECommerceMVC\\Data\\ECommerceTutContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:40:37.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAG4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T03:10:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T03:10:39.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T03:10:27.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_TimKiemPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T03:10:26.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T03:10:21.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T03:10:20.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T07:17:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\CartModel.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewModels\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:10:19.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SettingKey.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Helpers\\SettingKey.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Helpers\\SettingKey.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Helpers\\SettingKey.cs",
+              "RelativeToolTip": "ECommerceMVC\\Helpers\\SettingKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:54:54.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:49:53.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:49:30.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:46:02.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\Users\\IT-Liem\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T06:40:09.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

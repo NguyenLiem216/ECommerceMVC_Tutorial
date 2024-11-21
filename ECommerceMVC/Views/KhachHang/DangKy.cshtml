@@ -1,0 +1,82 @@
+﻿@model ECommerceMVC.ViewModels.RegisterVM
+@{
+    ViewData["Title"] = "Đăng ký";
+}
+
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <h1 class="mb-4" style="margin-top:120px">Đăng ký Thành viên</h1>
+        <form asp-action="DangKy" enctype="multipart/form-data">
+            <div class="row">
+                <div class="col-md-12 col-lg-6">
+                    <div class="form-item w-100">
+                        <label asp-for="@Model.Makh" class="form-label my-3"></label><sup>*</sup>
+                        <input asp-for="@Model.Makh" class="form-control">
+                        <span asp-validation-for="@Model.Makh" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <div class="form-item w-100">
+                        <label asp-for="@Model.Matkhau" class="form-label my-3"></label><sup>*</sup>
+                        <input asp-for="@Model.Matkhau" class="form-control">
+                        <span asp-validation-for="@Model.Matkhau" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-item">
+                    <label class="form-label my-3" asp-for="@Model.Hoten"></label><sup>*</sup>
+                    <input asp-for="@Model.Hoten" class="form-control" />
+                    <span asp-validation-for="@Model.Hoten" class="text-danger"></span>
+                </div>
+                <!-- Gender Field -->
+                <div class="form-item">
+                    <label class="form-label my-3" asp-for="@Model.Gioitinh"></label>
+                    <select asp-for="@Model.Gioitinh" class="form-control">
+                        <option>Chọn giới tính</option>
+                        <option value="true">Nam</option>
+                        <option value="false">Nữ</option>
+                    </select>
+                    <span asp-validation-for="@Model.Gioitinh" class="text-danger"></span>
+                </div>
+
+                <!-- Date of Birth Field -->
+                <div class="form-item">
+                    <label class="form-label my-3" asp-for="@Model.Ngaysinh"></label>
+                    <input asp-for="@Model.Ngaysinh" type="date" class="form-control" />
+                    <span asp-validation-for="@Model.Ngaysinh" class="text-danger"></span>
+                </div>
+
+                <!-- Address Field -->
+                <div class="form-item">
+                    <label class="form-label my-3" asp-for="@Model.Diachi"></label>
+                    <input asp-for="@Model.Diachi" class="form-control" />
+                    <span asp-validation-for="@Model.Diachi" class="text-danger"></span>
+                </div>
+
+                <!-- Phone Number Field -->
+                <div class="form-item">
+                    <label class="form-label my-3" asp-for="@Model.Dienthoai"></label>
+                    <input asp-for="@Model.Dienthoai" class="form-control" />
+                    <span asp-validation-for="@Model.Dienthoai" class="text-danger"></span>
+                </div>
+
+                <!-- Email Field -->
+                <div class="form-item">
+                    <label class="form-label my-3" asp-for="@Model.Email"></label>
+                    <input asp-for="@Model.Email" class="form-control" />
+                    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                </div>
+
+                <!-- Profile Image Field -->
+                <div class="form-item">
+                    <label class="form-label my-3" asp-for="@Model.Hinh"></label>
+                    <input asp-for="@Model.Hinh" class="form-control" type="file" />
+                </div>
+                <!-- Submit Button -->
+                <div class="g-4 text-center align-items-center justify-content-center pt-4">
+                    <button type="submit" class="btn border-secondary py-3 px-4 text-uppercase w-100 text-primary">Đăng ký</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
